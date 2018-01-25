@@ -33,7 +33,7 @@ local.properties
 .project
 .externalToolBuilders/
 *.launch
-pom.properties
+target/
 .classpath
 .factorypath
 .buildpath
